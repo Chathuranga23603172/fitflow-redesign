@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.expo/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+*.log
+coverage/
+serviceAccountKey.json
